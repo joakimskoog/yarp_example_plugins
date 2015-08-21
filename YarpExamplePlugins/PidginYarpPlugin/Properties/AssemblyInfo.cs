@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ChromeYarpPlugin")]
+[assembly: AssemblyTitle("PidginYarpPlugin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ChromeYarpPlugin")]
+[assembly: AssemblyProduct("PidginYarpPlugin")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ae985559-5505-4cf3-843a-7408d2d3ea3b")]
+[assembly: Guid("33668244-b9d9-4050-ad26-ef721a5ea4c7")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE985559-5505-4CF3-843A-7408D2D3EA3B}</ProjectGuid>
+    <ProjectGuid>{33668244-B9D9-4050-AD26-EF721A5EA4C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ChromeYarpPlugin</RootNamespace>
-    <AssemblyName>ChromeYarpPlugin</AssemblyName>
+    <RootNamespace>PidginYarpPlugin</RootNamespace>
+    <AssemblyName>PidginYarpPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -44,14 +44,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChromePasswordRetriever.cs" />
+    <Compile Include="PidginPasswordsRetriever.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Chrome.YarpMetadata">
+    <None Include="packages.config" />
+    <Content Include="Pidgin.YarpMetadata">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

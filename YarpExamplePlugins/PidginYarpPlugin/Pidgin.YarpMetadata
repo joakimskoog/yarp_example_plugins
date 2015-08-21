@@ -1,0 +1,9 @@
+{
+  "Id": "PidginYarpPlugin",
+  "Name": "Pidgin Plugin",
+  "Author": "Joakim Skoog",
+  "Description": "Retrieves all saved passwords from Pidgin from the 'accounts.xml' file.",
+  "Version": "1.0.0",
+  "Category": "Chat",
+  "Website": "https://github.com/joakimskoog"
+}

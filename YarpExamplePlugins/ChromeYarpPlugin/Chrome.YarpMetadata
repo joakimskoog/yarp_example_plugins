@@ -1,9 +1,0 @@
-{
-  "Id": "ChromeYarpPlugin",
-  "Name": "Chrome Yarp Plugin",
-  "Author": "Joakim Skoog",
-  "Description": "This plugin retrieves all saved passwords in Google Chrome.",
-  "Version": "1.0.0",
-  "Category": "Browsers",
-  "Website": "https://github.com/joakimskoog"
-}
